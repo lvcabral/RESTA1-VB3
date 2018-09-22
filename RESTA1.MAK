@@ -1,0 +1,9 @@
+RESTA1.FRM
+RESTA1.GLB
+ABOUTBOX.FRM
+CORES.FRM
+RECORDES.FRM
+ProjWinSize=85,857,186,480
+ProjWinShow=2
+IconForm="Resta1"
+Title="Resta 1"

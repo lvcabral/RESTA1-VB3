@@ -1,0 +1,9 @@
+Global PecaOrigem As Integer
+Global FirstDrag As Integer
+Global TipoAtual As Integer
+Global FimDeJogo As Integer
+Global CorDaPeca As Long
+Declare Function GetPrivateProfileInt Lib "Kernel" (ByVal Appname As String, ByVal KeyName As String, ByVal DEFAULT As Integer, ByVal FileName As String) As Integer
+Declare Function GetPrivateProfileString Lib "Kernel" (ByVal Appname As String, ByVal KeyName As String, ByVal DEFAULT As String, ByVal ReturnedString As String, ByVal MaxSize As Integer, ByVal FileName As String) As Integer
+Declare Function WritePrivateProfileString Lib "Kernel" (ByVal Appname As String, ByVal KeyName As String, ByVal NewString As String, ByVal FileName As String) As Integer
+
