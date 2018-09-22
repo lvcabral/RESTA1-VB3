@@ -1,2 +1,4 @@
-*.mak linguist-language=Visual Basic
-*.frm linguist-language=Visual Basic
+*.FRM linguist-language=Visual Basic
+*.GLB linguist-language=Visual Basic
+*.MAK linguist-language=Visual Basic
+
