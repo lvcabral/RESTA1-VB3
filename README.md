@@ -6,7 +6,7 @@ This game was originally developed in 1992 using Visual Basic 1, at the time I w
 
 Just after I finished this, I developed another small puzzle game, check on the repository: [MEMORIA-VB3](https://github.com/lvcabral/MEMORIA-VB3)
 
-This repository has the source code for Visual Basic 3 (I converted as soon as I got my hand on the VB3 disks) but has no changes, is the same version I programmed in VB1.
+This repository has the source code for Visual Basic 3 (I converted as soon as I got my hands on the VB3 disks) but has no changes, is the same version I programmed in VB1.
 
 ![Screenshot](https://github.com/lvcabral/RESTA1-VB3/blob/master/SCREENSHOT.png?raw=true)
 
@@ -14,5 +14,6 @@ This repository has the source code for Visual Basic 3 (I converted as soon as I
 - My website is [https://lvcabral.com](https://lvcabral.com)
 - My twitter is [@lvcabral](https://twitter.com/twitter)
 - My podcast is [PODebug Podcast](http://podebug.com)
+- Check my other [GitHub repositories ](https://github.com/lvcabral)
 
 Copyright (C) Marcelo Lv Cabral. All rights reserved.
