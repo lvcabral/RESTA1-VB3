@@ -16,4 +16,8 @@ This repository has the source code for Visual Basic 3 (I converted as soon as I
 - My podcast is [PODebug Podcast](http://podebug.com)
 - Check my other [GitHub repositories ](https://github.com/lvcabral)
 
+## License
+
 Copyright (C) Marcelo Lv Cabral. All rights reserved.
+
+Licensed under [MIT](https://github.com/lvcabral/MEMORIA-VB3/blob/master/LICENSE) License.
