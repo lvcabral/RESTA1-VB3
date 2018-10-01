@@ -20,4 +20,4 @@ This repository has the source code for Visual Basic 3 (I converted as soon as I
 
 Copyright (C) Marcelo Lv Cabral. All rights reserved.
 
-Licensed under [MIT](https://github.com/lvcabral/MEMORIA-VB3/blob/master/LICENSE) License.
+Licensed under [MIT](https://github.com/lvcabral/RESTA1-VB3/blob/master/LICENSE) License.
